@@ -22,7 +22,7 @@ end
 
 fred = Student.new("Fred", "James", 12)
 sarah = Student.new("Sarah", "Smith", 12)
-jack = Student.new("Jack", "Gong", 10)
+jack = Student.new("Jack", "Gong", 11)
 all_students = [fred, sarah, jack]
 
 seniors(all_students).each do |student|
